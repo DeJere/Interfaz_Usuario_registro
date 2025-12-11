@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practic_Intento_3</string>
+    <string name="login_title">Inicio de Sesión</string>
+    <string name="cedula_hint">Ingrese su Cédula</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Login</string>
+    <string name="logo_description">Logo de la empresa</string>
+</resources>
